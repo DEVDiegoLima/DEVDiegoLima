@@ -24,4 +24,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVDiegoLima&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-###  Um entusiasta apaixonado por programação, sempre em busca constante de aprendizado. Meu GitHub é um reflexo da minha paixão pela codificação e do meu compromisso em me aprimorar como desenvolvedor.
